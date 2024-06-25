@@ -510,7 +510,7 @@ form {
 .copyright-box {
   margin-top: 30px;
 }
-.copyright {
+.copyright-box p {
   font-size: 14px;
   font-weight: 700;
   display: flex;
